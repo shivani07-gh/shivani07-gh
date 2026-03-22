@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=220&section=header&text=Shivani&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Shivani&fontSize=40&animation=fadeIn" />
 
 <p align="center">
