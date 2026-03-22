@@ -6,12 +6,7 @@
 
 ---
 
-## ⚡ SYSTEM STATUS
-```diff
-+ User: Shivani
-+ Mode: Learning & Building
-+ Focus: DSA | Dev | AI
-+ Status: Online ⚡
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivani07-gh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani07-gh&theme=tokyonight&hide_border=true&background=0D1117"/> </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani07-gh&theme=react-dark&hide_border=true&bg_color=0D1117"/> </p>
