@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Shivani&fontSize=40&animation=fadeIn" />
 
-<!--
-**shivani07-gh/shivani07-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Code.+Build.+Repeat.;DSA+%7C+Development+%7C+AI;Future+Engineer+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ SYSTEM STATUS
+```diff
++ User: Shivani
++ Mode: Learning & Building
++ Focus: DSA | Dev | AI
++ Status: Online ⚡
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivani07-gh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani07-gh&theme=tokyonight&hide_border=true&background=0D1117"/> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani07-gh&theme=react-dark&hide_border=true&bg_color=0D1117"/> </p>
+
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github,vscode" /> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/> </p> ```
+
