@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivani07-gh&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivani07-gh&theme=tokyonight"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="500"/>
 </p>
+
 
 ## 🧠 TOP LANGUAGES
 <p align="center">
