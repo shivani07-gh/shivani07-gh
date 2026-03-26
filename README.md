@@ -8,7 +8,7 @@
 
 ## ⚡ SYSTEM BOOT LOG
 
-```bash
+bash
 > starting system...
 > loading core modules ██████████ 100%
 > initializing developer profile...
