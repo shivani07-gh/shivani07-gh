@@ -22,8 +22,14 @@
 
 ---
 
+## ⚡ SYSTEM ACTIVITY
+
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&color=00F7FF&center=true&vCenter=true&lines=>>>+Tracking+Activity...;>>>+Processing+Commits...;>>>+System+Active+⚡" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </p>
 
 
