@@ -32,7 +32,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/shivani-barot-758b62373">
+<a href="https://www.linkedin.com/in/shivani-barot-758b62373/">
 <img src="https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
