@@ -22,15 +22,20 @@
 
 ---
 
-## ⚡ SYSTEM ACTIVITY
+
+## ⚡ LIVE SYSTEM MONITOR
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&color=00F7FF&center=true&vCenter=true&lines=>>>+Tracking+Activity...;>>>+Processing+Commits...;>>>+System+Active+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&color=00F7FF&center=true&vCenter=true&lines=>>>+Booting+System...;>>>+Connecting+to+GitHub...;>>>+Fetching+Commits...;>>>+Status:+ONLINE+⚡;>>>+Welcome+to+Shivani's+Terminal" />
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
-</p>
+```bash
+> user@shivani:~$ system_status
+> CPU usage: ███████░░░ 72%
+> Memory: █████████░ 89%
+> Commits processed: 128+
+> Projects running: ACTIVE
+> Mode: BUILDING 🚀
 
 
 
