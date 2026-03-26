@@ -29,13 +29,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&color=00F7FF&center=true&vCenter=true&lines=>>>+Booting+System...;>>>+Connecting+to+GitHub...;>>>+Fetching+Commits...;>>>+Status:+ONLINE+⚡;>>>+Welcome+to+Shivani's+Terminal" />
 </p>
 
-```bash
-> user@shivani:~$ system_status
-> CPU usage: ███████░░░ 72%
-> Memory: █████████░ 89%
-> Commits processed: 128+
-> Projects running: ACTIVE
-> Mode: BUILDING 🚀
 
 
 
