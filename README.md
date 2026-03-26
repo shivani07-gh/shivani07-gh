@@ -11,8 +11,6 @@
 </p>
 
 ---
-
-
 ## 🧠 About Me
 - 🎓 B.Tech Computer Science Student  
 - 💻 Love solving problems & building projects  
