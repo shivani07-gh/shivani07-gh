@@ -59,4 +59,4 @@
 ⚡ Keep Building ⚡
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=1500&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=1200&section=footer"/>
