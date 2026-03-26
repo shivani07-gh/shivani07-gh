@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=220&section=header&text=ShivaniBarot&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=220&section=header&text=Shivani_Barot&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DSA+%7C+Development+%7C+AI;Building+Cool+Stuff+💻;Future+Engineer+🚀" />
