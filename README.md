@@ -12,6 +12,10 @@
 - 🚀 Building impactful projects  
 - 🎯 Target: Top Software Engineer  
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0D1117&height=2"/>
+</p>
+
 ---
 
 ## 📊 GITHUB STATS
@@ -22,30 +26,18 @@
 
 ---
 
-
 ## ⚡ LIVE SYSTEM MONITOR
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&color=00F7FF&center=true&vCenter=true&lines=>>>+Booting+System...;>>>+Connecting+to+GitHub...;>>>+Fetching+Commits...;>>>+Status:+ONLINE+⚡;>>>+Welcome+to+Shivani's+Terminal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&color=00F7FF&center=true&vCenter=true&lines=>>>+Booting+System...;>>>+Connecting+to+GitHub...;>>>+Fetching+Commits...;>>>+Status:+ONLINE+⚡" />
 </p>
 
+```bash
+> user: shivani
+> role: developer
+> system: active ⚡
 
-
-
-## 🧠 TOP LANGUAGES
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani07-gh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-</p>
-
----
-
-## 🧠 TECH STACK
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github,vscode" />
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
-</p>
+> loading skills ██████████ 100%
+> projects deployed ✔
+> commits syncing ✔
+> status: BUILD MODE 🚀
