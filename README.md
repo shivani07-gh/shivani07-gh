@@ -33,11 +33,11 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/shivani-barot-758b62373">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:shivanibarot1905@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 </p>
 
