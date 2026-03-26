@@ -3,7 +3,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DSA+%7C+Development+%7C+AI;Building+Cool+Stuff+💻;Future+Engineer+🚀" />
 </p>
-
+---
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+</p>
 ---
 
 ## 🧠 About Me
