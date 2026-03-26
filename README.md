@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&lines=DSA+%7C+Development+%7C+AI;Building+Cool+Stuff+💻;Future+Engineer+🚀" />
 </p>
-
+---
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp5NW04YmszajNoaXozdzg3ZjN1NzhnaHVud2IyOGNrZWxvNmcyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9RnJWRWoiRZlHgaHa/giphy.gif" width="100%"/>
 </p>
