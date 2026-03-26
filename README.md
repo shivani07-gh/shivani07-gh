@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<img src="https://pin.it/CctgZ05W6" width="70%""/>
+<img src="https://tenor.com/LBX2.gif" width="70%""/>
 </p>
 
 ---
