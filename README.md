@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif" width="80%""/>
+<img src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif" width="90%""/>
 </p>
 
 ---
