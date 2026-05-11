@@ -67,7 +67,7 @@
 ⚡ Keep Building ⚡
 </p>
 
-![pacman](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/pacman.svg)
+![pacman](https://raw.githubusercontent.com/shivani07-gh/shivani07-gh/output/pacman.svg)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=150&section=footer" width="100%"/>
